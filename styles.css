@@ -1,0 +1,174 @@
+body {
+    background: linear-gradient(to right, #ff0000, #0000ff);
+}
+
+#container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+#root {
+    background: rgb(232, 235, 243);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    padding: 15px;
+    direction: ltr;
+    cursor: pointer;
+
+
+}
+
+button {
+    color: white;
+    background: rgba(15, 1, 1, 0.874);
+    padding: 27px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px rgba(225, 9, 9, 0.856);
+    cursor: pointer;
+
+
+
+
+}
+
+#ip {
+    border: 2px solid transparent;
+    width: 240px;
+    height: 80px;
+    margin-bottom: 15px;
+    color: black;
+    border-radius: 10px;
+    background: rgb(232, 235, 243);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: bottom;
+    text-align: right;
+    cursor: pointer;
+
+
+
+
+}
+
+#one {
+    padding: 2px;
+}
+
+#two {
+    padding: 2px;
+}
+
+#three {
+    padding: 2px;
+}
+
+#four {
+    padding: 2px;
+}
+
+#clearBtn {
+    width: 35px;
+    height: 30px;
+}
+
+#cOne {
+    width: 35px;
+    height: 30px;
+
+}
+
+#dot {
+    width: 35px;
+    height: 30px;
+}
+
+#divide {
+    width: 35px;
+    height: 30px;
+}
+
+#btn1 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn2 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn3 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn4 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn5 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn6 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn7 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn8 {
+    width: 35px;
+    height: 30px;
+}
+
+#btn9 {
+    width: 35px;
+    height: 30px;
+}
+
+#multiply {
+    width: 35px;
+    height: 30px;
+
+}
+
+#subBtn {
+    width: 35px;
+    height: 30px;
+}
+
+#addBtn {
+    width: 35px;
+    height: 30px;
+}
+
+#zero {
+    width: 35px;
+    height: 30px;
+}
+
+#equalBtn {
+    width: 35px;
+    height: 30px;
+}
+
+#zeroes {
+    width: 35px;
+    height: 30px;
+}
+
+#percentage {
+    width: 35px;
+    height: 30px;
+}
