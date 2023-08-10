@@ -1,4 +1,4 @@
-// Get references to the input and button elements
+
 const inputText = document.getElementById("ip");
 const button1 = document.getElementById("btn1");
 const button2 = document.getElementById("btn2");
@@ -28,8 +28,8 @@ function zb1() {
   inputText.value += "00";
 }
 
-function logButtonValue(farhan) {
-  const value = farhan.target.getAttribute("data-value");
+function logButtonValue(input) {
+  const value = input.target.getAttribute("data-value");
   inputText.value += value;
 }
 
